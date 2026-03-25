@@ -5,14 +5,34 @@
 **/.venv/
 **/*.pyc
 
+# OS and editor artifacts
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini
+
 # Flutter and Dart generated files
 flutter_basics/.dart_tool/
 flutter_basics/build/
+flutter_basics/android/build/
 flutter_basics/windows/flutter/ephemeral/
 flutter_basics/.flutter-plugins
 flutter_basics/.flutter-plugins-dependencies
 flutter_basics/.packages
 flutter_basics/pubspec.lock
+
+# Temporary and machine-specific files
+**/*.log
+**/*_log.txt
+**/*_error.txt
+**/lint_output.txt
+**/version_info.txt
+**/clean_log.txt
+**/installer/*.exe
+
+# R session state
+R/.RData
+R/.RDataTmp
+R/.Rhistory
 
 # Files above GitHub's size limit
 Python/Python_Data/models/*.keras
