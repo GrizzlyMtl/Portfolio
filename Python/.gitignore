@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+**/node_modules/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Python build
+build/
+dist/
+*.egg-info/
+*.keras

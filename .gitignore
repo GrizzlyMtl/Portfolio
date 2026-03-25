@@ -1,0 +1,18 @@
+# Python caches and environments
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.venv/
+**/*.pyc
+
+# Flutter and Dart generated files
+flutter_basics/.dart_tool/
+flutter_basics/build/
+flutter_basics/windows/flutter/ephemeral/
+flutter_basics/.flutter-plugins
+flutter_basics/.flutter-plugins-dependencies
+flutter_basics/.packages
+flutter_basics/pubspec.lock
+
+# Files above GitHub's size limit
+Python/Python_Data/models/*.keras

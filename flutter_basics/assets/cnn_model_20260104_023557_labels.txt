@@ -1,0 +1,6 @@
+elephant
+girafe
+leopard
+rhino
+tigre
+zebre
